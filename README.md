@@ -13,9 +13,6 @@
 - Programação: **C/C++, HTML, CSS, JavaScript**
 - Ferramentas: **Git e VSCode**
 
-### 📫 Entre em contato
-- [GitHub](https://github.com/ferfilho-dev)
-
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px;">
