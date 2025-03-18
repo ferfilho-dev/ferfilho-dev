@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Delânio! 👋
 
-<!--
-**ferfilho-dev/ferfilho-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 **Apaixonado por Ciências da Computação**
+🌱 Atualmente estou aprendendo mais sobre **C/C++** e **Desenvolvimento Web**
+🔭 Meus projetos são focados em testes para aumentar meu desempenho à medida que vou evoluindo
+⚡ **Curiosidade**: Minha distro preferida é **Ubuntu**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Minhas habilidades
+- Programação: **C/C++, HTML, CSS, JavaScript**
+- Ferramentas: **Git e VSCode**
+
+### 📫 Entre em contato
+- [GitHub](https://github.com/ferfilho-dev)
+
+---
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=6c09b952nchelrrrum022st9cmyi783v9g8orz167krhzifa&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="150" height="150">
+  <img src="https://user-images.githubusercontent.com/124924248/218573114-2f009914-3ec9-4f41-a66f-fdd76e32e7b5.gif" width="150" height="150">
+  <img 
+src="https://camo.githubusercontent.com/e1784ce9f67450bbb344206d1e05579cf4c835b6e84add8e63d1c19b072e7aab/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313236302f312a2d744f6c644562666a696a786e3956715a65554c71672e676966" width="150" height="150">
+  <img src="https://media.giphy.com/media/ztl9x7JlhSlU4MWD6h/giphy.gif" width="150" height="150">
+</div>
+
+---
