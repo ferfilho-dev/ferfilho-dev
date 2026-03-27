@@ -2,7 +2,7 @@
 
 ---
 
-- 💻 **Apaixonado por Ciências da Computação**
+- 💻 **Apaixonado por TI**
 - 🌱 Atualmente estou aprendendo mais sobre **C/C++** e **Desenvolvimento Web**
 - 🔭 Meus projetos são focados em testes para aumentar meu desempenho à medida que vou evoluindo
 - ⚡ **Curiosidade**: Minha distro preferida é **Ubuntu**
